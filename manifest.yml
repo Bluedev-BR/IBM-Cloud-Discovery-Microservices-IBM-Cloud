@@ -1,0 +1,5 @@
+---
+applications:
+  - name: cd-teste
+    random-route: true
+    memory: 64mb
